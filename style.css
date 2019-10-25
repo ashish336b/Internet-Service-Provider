@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    font-size: 1.1rem;
+    letter-spacing: 1.4px;
+}
+
+nav {
+    margin: 2px;
+    background: #F6F6F8;
+}
+
+.navbar {
+    padding: 0 !important;
+}
+
+.custom_container-fluid {
+    margin-top: 0.7%;
+}
+
+.navbar-nav .nav-item {
+    padding-right: 1.3rem;
+}
+
+.navbar-nav .nav-item > a {
+    font-size: 1rem;
+    color: black !important;
+    transition: 0.5s;
+}
+
+.navbar-nav .nav-item a:hover {
+    background: rgb(219, 219, 226);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.customCaurosel {
+    height: 150px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: var(--overaly-color);
+}
