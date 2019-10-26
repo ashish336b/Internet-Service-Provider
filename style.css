@@ -11,7 +11,9 @@ body {
     letter-spacing: 1.4px;
     text-decoration: none;
 }
-
+hr{
+    margin-bottom: 0;
+}
 nav {
     margin: 2px;
     background: #F6F6F8;
