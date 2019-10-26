@@ -178,6 +178,14 @@ section.nettvfeature {
     transform: scale(1.05);
 }
 
+.footer{
+    background: #A04658;
+}
+
+.footer footer{
+    padding: 2rem;
+}
+
 /* Hover Effects on Card */
 
 @media (min-width: 992px) {
