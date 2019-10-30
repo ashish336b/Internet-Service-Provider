@@ -1,0 +1,10 @@
+@import "global.css";
+@import "navbar.css";
+@import "footer.css";
+
+
+
+.contact p{
+    margin: 0;
+    padding: 0;
+}

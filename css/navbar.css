@@ -1,0 +1,53 @@
+nav {
+    margin: 2px;
+    background: #F6F6F8;
+}
+
+.customNabar .header * {
+    margin: 0;
+}
+
+.customNabar .header {
+    padding: 0.3rem;
+    background: red;
+}
+
+.customNabar .header p {
+    padding-right: 3px;
+}
+
+.customNabar .header .list p a {
+    transition: 0.3s;
+    color: white;
+}
+
+.customNabar .header .list p a:hover {
+    color: black;
+}
+
+
+/*Navbar starts from here*/
+
+.custom_container-fluid {
+    margin-top: 0.7%;
+}
+
+.navbar-nav .nav-item {
+    padding-right: 1.3rem;
+}
+
+.navbar-nav .nav-item > a {
+    font-size: 0.8rem;
+    color: black !important;
+    font-weight: 500;
+    transition: 0.5s;
+}
+
+.navbar-nav .nav-item a:hover {
+    background: rgb(219, 219, 226);
+}
+
+.dropdown:hover > .dropdown-menu {
+    font-size: 0.7rem;
+    display: block;
+}

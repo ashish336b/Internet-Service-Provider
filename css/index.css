@@ -1,75 +1,6 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
-body {
-    font-family: 'Open Sans', sans-serif;
-    line-height: 1.6;
-    font-size: 1.1rem;
-    letter-spacing: 1.4px;
-    text-decoration: none;
-}
-
-hr {
-    border-color: red;
-}
-
-nav {
-    margin: 2px;
-    background: #F6F6F8;
-}
-
-
-/*above navbar*/
-
-.customNabar .header * {
-    margin: 0;
-}
-
-.customNabar .header {
-    padding: 0.3rem;
-    background: red;
-}
-
-.customNabar .header p {
-    padding-right: 3px;
-}
-
-.customNabar .header .list p a {
-    transition: 0.3s;
-    color: white;
-}
-
-.customNabar .header .list p a:hover {
-    color: black;
-}
-
-
-/*Navbar starts from here*/
-
-.custom_container-fluid {
-    margin-top: 0.7%;
-}
-
-.navbar-nav .nav-item {
-    padding-right: 1.3rem;
-}
-
-.navbar-nav .nav-item>a {
-    font-size: 1rem;
-    color: black !important;
-    transition: 0.5s;
-}
-
-.navbar-nav .nav-item a:hover {
-    background: rgb(219, 219, 226);
-}
-
-.dropdown:hover>.dropdown-menu {
-    display: block;
-}
+@import url('./global.css');
+@import url('./navbar.css');
+@import url('./footer.css');
 
 
 /*caurosel*/
@@ -187,22 +118,7 @@ section.nettvfeature {
 
 /* footer css */
 
-.footer a {
-    color: white;
-}
 
-.footer a:hover {
-    text-decoration: none;
-    color: #EAEAEA;
-}
-
-.footer {
-    background: #A04658;
-}
-
-.footer footer {
-    padding: 2rem;
-}
 
 
 /* Hover Effects on Card */

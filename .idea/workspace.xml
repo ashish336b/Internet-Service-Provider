@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da3fc4d-f609-4f33-b4a4-b886a83a9d1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/navbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +42,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.contact.html">
+    <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap4/contact.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap4/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.contact.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -63,6 +72,7 @@
       <workItem from="1572094878319" duration="7694000" />
       <workItem from="1572231321782" duration="47000" />
       <workItem from="1572406270656" duration="28000" />
+      <workItem from="1572412307588" duration="5862000" />
     </task>
     <servers />
   </component>
