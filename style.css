@@ -21,7 +21,9 @@ nav {
     background: #F6F6F8;
 }
 
+
 /*above navbar*/
+
 .customNabar .header * {
     margin: 0;
 }
@@ -44,6 +46,7 @@ nav {
     color: black;
 }
 
+
 /*Navbar starts from here*/
 
 .custom_container-fluid {
@@ -54,7 +57,7 @@ nav {
     padding-right: 1.3rem;
 }
 
-.navbar-nav .nav-item > a {
+.navbar-nav .nav-item>a {
     font-size: 1rem;
     color: black !important;
     transition: 0.5s;
@@ -64,15 +67,17 @@ nav {
     background: rgb(219, 219, 226);
 }
 
-.dropdown:hover > .dropdown-menu {
+.dropdown:hover>.dropdown-menu {
     display: block;
 }
+
 
 /*caurosel*/
 
 .customCaurosel {
     height: 150px;
 }
+
 
 /*services Cards*/
 
@@ -112,13 +117,14 @@ section.service {
         margin-bottom: .25rem;
         box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
     }
-
     .service .card:hover .btn {
         opacity: 1;
     }
 }
 
+
 /*pricing cards*/
+
 section.pricing {
     background: #c7cdd6;
     background: linear-gradient(to right, #c7cdd6, #ffffff);
@@ -178,13 +184,26 @@ section.nettvfeature {
     transform: scale(1.05);
 }
 
-.footer{
+
+/* footer css */
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.footer {
     background: #A04658;
 }
 
-.footer footer{
+.footer footer {
     padding: 2rem;
 }
+
 
 /* Hover Effects on Card */
 
@@ -194,11 +213,7 @@ section.nettvfeature {
         margin-bottom: .25rem;
         box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
     }
-
     .pricing .card:hover .btn {
         opacity: 1;
     }
 }
-
-
-
