@@ -9,7 +9,7 @@ nav {
 
 .customNabar .header {
     padding: 0.3rem;
-    background: red;
+    background: #A04658;
 }
 
 .customNabar .header p {
@@ -47,3 +47,4 @@ nav {
     font-size: 0.7rem;
     display: block;
 }
+
