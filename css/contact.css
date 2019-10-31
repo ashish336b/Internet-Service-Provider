@@ -3,8 +3,25 @@
 @import "footer.css";
 
 
-
-.contact p{
-    margin: 0;
-    padding: 0;
+/*google map css*/
+.contact .mapouter {
+    text-align: right;
+    height: 600px;
+    width: 600px;
 }
+
+.contact .gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 600px;
+    width: 600px;
+}
+
+/*contact body css*/
+
+.contact .row p{
+    margin: 0;
+    padding: 0 0 0.4rem 1.2rem;
+}
+
+

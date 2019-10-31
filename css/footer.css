@@ -1,4 +1,6 @@
-
+.footer{
+    background: fixed;
+}
 .footer a {
     color: white;
 }
