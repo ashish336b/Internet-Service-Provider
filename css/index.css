@@ -9,6 +9,15 @@
     height: 150px;
 }
 
+/*overlay*/
+#carouselExampleControls .overlay {
+    width: 100%;
+    height: 100%;
+    background: black;
+    position: absolute;
+    top: 0;
+    opacity: 0.6;
+}
 
 /*services Cards*/
 
@@ -48,6 +57,7 @@ section.service {
         margin-bottom: .25rem;
         box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
     }
+
     .service .card:hover .btn {
         opacity: 1;
     }
@@ -119,8 +129,6 @@ section.nettvfeature {
 /* footer css */
 
 
-
-
 /* Hover Effects on Card */
 
 @media (min-width: 992px) {
@@ -129,6 +137,7 @@ section.nettvfeature {
         margin-bottom: .25rem;
         box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
     }
+
     .pricing .card:hover .btn {
         opacity: 1;
     }
