@@ -22,3 +22,11 @@
 .footer li {
     padding: 0.3rem 0 0.5rem 0;
 }
+
+.footer .input-group-btn{
+    position: relative;
+    font-size: 0;
+    white-space: nowrap;
+}
+
+
