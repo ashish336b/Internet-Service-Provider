@@ -2,6 +2,10 @@
 @import "navbar.css";
 @import "footer.css";
 
+.contact{
+    background: #d7d9db;
+}
+
 /*google map css*/
 .contact .mapouter {
     text-align: right;
@@ -25,5 +29,20 @@
     padding: 0 0 0.4rem 1.2rem;
 }
 
+.contact .card:hover{
+    -webkit-box-shadow: 3px 4px 23px -1px rgba(168,173,168,1);
+    -moz-box-shadow: 3px 4px 23px -1px rgba(168,173,168,1);
+    box-shadow: 3px 4px 23px -1px rgba(168,173,168,1);
+}
+
+.card{
+    border-radius: 30px !important;
+}
+
+.card a{
+    margin-top: 2rem !important;
+    color: #454545;
+    text-decoration: none !important;
+}
 
 
