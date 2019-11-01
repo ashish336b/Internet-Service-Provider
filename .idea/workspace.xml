@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2da3fc4d-f609-4f33-b4a4-b886a83a9d1a" name="Default Changelist" comment="">
+    <list default="true" id="629f8395-65ba-46c1-9bd6-efe375b3e8ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ShF0NVC7PSfrYecOsosCn7Vjg4" />
+  <component name="ProjectId" id="1T01nVIy4KET5luenej8dOLpiq2" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/wamp/www/up-1" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,38 +36,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.contact.html">
-    <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap4/contact.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap4/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.contact.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2da3fc4d-f609-4f33-b4a4-b886a83a9d1a" name="Default Changelist" comment="" />
-      <created>1572007696503</created>
+      <changelist id="629f8395-65ba-46c1-9bd6-efe375b3e8ec" name="Default Changelist" comment="" />
+      <created>1572582366482</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572007696503</updated>
-      <workItem from="1572007698339" duration="667000" />
-      <workItem from="1572069424636" duration="154000" />
-      <workItem from="1572069641651" duration="15066000" />
-      <workItem from="1572094878319" duration="7694000" />
-      <workItem from="1572231321782" duration="47000" />
-      <workItem from="1572406270656" duration="28000" />
-      <workItem from="1572412307588" duration="6443000" />
-      <workItem from="1572542060407" duration="3612000" />
+      <updated>1572582366482</updated>
+      <workItem from="1572582369660" duration="41000" />
+      <workItem from="1572582426535" duration="3346000" />
     </task>
     <servers />
   </component>
@@ -91,94 +67,4 @@
       </map>
     </option>
   </component>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="2da3fc4d-f609-4f33-b4a4-b886a83a9d1a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1ShF0NVC7PSfrYecOsosCn7Vjg4" />
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/wamp/www/up-1" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JavaScript Debug.contact.html">
-    <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap4/contact.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap4/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.contact.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="2da3fc4d-f609-4f33-b4a4-b886a83a9d1a" name="Default Changelist" comment="" />
-      <created>1572007696503</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1572007696503</updated>
-      <workItem from="1572007698339" duration="667000" />
-      <workItem from="1572069424636" duration="154000" />
-      <workItem from="1572069641651" duration="15066000" />
-      <workItem from="1572094878319" duration="7694000" />
-      <workItem from="1572231321782" duration="47000" />
-      <workItem from="1572406270656" duration="28000" />
-      <workItem from="1572412307588" duration="6443000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
->>>>>>> b9375946ba67c911705a35a4587b6dda55b2e3bb
 </project>

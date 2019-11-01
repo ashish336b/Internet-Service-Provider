@@ -1,14 +1,13 @@
-
 @import "global.css";
 @import "navbar.css";
 @import "footer.css";
-
 
 /*google map css*/
 .contact .mapouter {
     text-align: right;
     height: 600px;
     width: 600px;
+    z-index: 0;
 }
 
 .contact .gmap_canvas {
@@ -18,9 +17,10 @@
     width: 600px;
 }
 
+
 /*contact body css*/
 
-.contact .row p{
+.contact .row p {
     margin: 0;
     padding: 0 0 0.4rem 1.2rem;
 }
