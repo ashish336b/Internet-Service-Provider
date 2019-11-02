@@ -4,6 +4,7 @@
     <list default="true" id="629f8395-65ba-46c1-9bd6-efe375b3e8ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,7 @@
   <component name="ProjectId" id="1T01nVIy4KET5luenej8dOLpiq2" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/AA.WSL.Development/test" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,7 +54,9 @@
       <updated>1572582366482</updated>
       <workItem from="1572582369660" duration="41000" />
       <workItem from="1572582426535" duration="16842000" />
-      <workItem from="1572681307046" duration="3030000" />
+      <workItem from="1572681307046" duration="4334000" />
+      <workItem from="1572695655698" duration="35000" />
+      <workItem from="1572698963093" duration="4539000" />
     </task>
     <servers />
   </component>
