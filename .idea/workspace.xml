@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="629f8395-65ba-46c1-9bd6-efe375b3e8ec" name="Default Changelist" comment="">
+    <list default="true" id="21188187-0379-4fd8-9599-6f82aea79f77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
@@ -20,15 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1T01nVIy4KET5luenej8dOLpiq2" />
+  <component name="ProjectId" id="1T4QhmKdDOcpJoCVMuEe3fOHzdp" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/AA.WSL.Development/test" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\AA.Development\bootstrap4\" />
-    </key>
+    <property name="last_opened_file_path" value="E:/wamp/www/up-1" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,21 +37,28 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap4/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="629f8395-65ba-46c1-9bd6-efe375b3e8ec" name="Default Changelist" comment="" />
-      <created>1572582366482</created>
+      <changelist id="21188187-0379-4fd8-9599-6f82aea79f77" name="Default Changelist" comment="" />
+      <created>1572717009725</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572582366482</updated>
-      <workItem from="1572582369660" duration="41000" />
-      <workItem from="1572582426535" duration="16842000" />
-      <workItem from="1572681307046" duration="4334000" />
-      <workItem from="1572695655698" duration="35000" />
-      <workItem from="1572698963093" duration="4539000" />
+      <updated>1572717009725</updated>
+      <workItem from="1572717010988" duration="31000" />
+      <workItem from="1572769067415" duration="4567000" />
     </task>
     <servers />
   </component>

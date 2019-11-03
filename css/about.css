@@ -2,3 +2,29 @@
 @import "navbar.css";
 @import "footer.css";
 
+.aboutcontainer {
+    background: #ededed;
+}
+
+.mission p {
+    font-size: 2rem;
+}
+
+.aboutcontainer > div.container {
+    max-width: 75%;
+    background: white;
+    position: relative;
+}
+
+.about p {
+    padding-bottom: 2rem;
+    margin: 0 auto 0 auto;
+    max-width: 65%;
+}
+
+.image p.post {
+    font-size: 1.01rem;
+    margin-bottom: 0;
+}
+
+
