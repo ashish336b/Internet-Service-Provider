@@ -3,7 +3,7 @@
 @import "footer.css";
 
 .contact{
-    background: #d7d9db;
+    background: #EDEDED;
 }
 
 /*google map css*/
@@ -36,7 +36,11 @@
 }
 
 .card{
-    border-radius: 30px !important;
+    margin-bottom: 10px !important;
+}
+
+.card div.contact-info p{
+    padding-left: 0;
 }
 
 .card a{
