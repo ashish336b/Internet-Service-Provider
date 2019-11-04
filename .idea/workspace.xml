@@ -4,8 +4,6 @@
     <list default="true" id="21188187-0379-4fd8-9599-6f82aea79f77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +22,7 @@
   <component name="ProjectId" id="1T4QhmKdDOcpJoCVMuEe3fOHzdp" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/wamp/www/up-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,7 +57,10 @@
       <option name="presentableId" value="Default" />
       <updated>1572717009725</updated>
       <workItem from="1572717010988" duration="31000" />
-      <workItem from="1572769067415" duration="5907000" />
+      <workItem from="1572769067415" duration="6942000" />
+      <workItem from="1572788192883" duration="2378000" />
+      <workItem from="1572867135123" duration="86000" />
+      <workItem from="1572869701807" duration="257000" />
     </task>
     <servers />
   </component>
